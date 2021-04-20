@@ -1,0 +1,54 @@
+.chepa{
+     
+}
+.hola{
+    width: 200px;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 40px;
+    
+}  
+.luna_titulo{
+    
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+.h1{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+.div{
+    display: block;
+}
+body{
+    background-color: #03384a;
+}
+.arrow{
+    width: 20px;
+    height: 20px;
+    transform: rotate(
+-180deg
+);
+    border: 2px solid orange;
+    padding: 5px;
+    border-radius: 10px;
+}
+.nav_li {
+    border-bottom: solid black 2px;
+    list-style: none;
+}
+* {
+    font-family: 'Roboto', sans-serif;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.main_nav {
+    text-align: left;
+    height: auto;
+    margin: auto;

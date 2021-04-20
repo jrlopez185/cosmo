@@ -1,0 +1,44 @@
+.chepa{
+     
+}
+
+
+
+
+
+}
+.header{
+    text-align: center;
+    
+}
+
+
+
+.hola{
+    width: 200px;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 40px;
+    
+}  
+
+.arrow{
+    width: 20px;
+    height: 20px;
+    transform: rotate(
+-180deg
+);
+    border: 2px solid orange;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+

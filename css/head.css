@@ -1,0 +1,36 @@
+
+
+
+.a{
+    list-style: none;
+    text-align: center;
+    margin: 150px 105px 100px 50px;
+   
+}
+h1.Hola{
+    text-align: center;
+    margin: 150px 105px 100px 50px;
+}
+
+
+section.hola2{
+    text-align: center;
+    
+    
+}
+.nav_li {
+    border-bottom: solid black 2px;
+    list-style: none;
+}
+* {
+    font-family: 'Roboto', sans-serif;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.main_nav {
+    text-align: left;
+    height: auto;
+    margin: auto;
+
